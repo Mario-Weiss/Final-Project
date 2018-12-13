@@ -79,11 +79,13 @@
     align-items: center;
     justify-content: center;
     height: 100%;
-    font-weight: 300; }
+    font-weight: 300;
+    margin-left: 35px; }
     .progress .progress-value div {
       margin-top: 10px; }
     .progress .progress-value span {
       font-size: 12px;
+      line-height: 25px;
       text-transform: uppercase; }
 
 .ml-4 {

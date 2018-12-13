@@ -66,7 +66,7 @@ require_once "../../Controllers/CourseController.php";
 					<span class="progress-bar"></span>
 				</span>
 				<div class="progress-value">
-					<div class="ml-4">
+					<div>
 						100%<br>
 						<span>completed</span>
 					</div>
@@ -109,7 +109,7 @@ require_once "../../Controllers/CourseController.php";
 					<span class="progress-bar"></span>
 				</span>
 				<div class="progress-value">
-					<div class="ml-4">
+					<div>
 						85%<br>
 						<span>completed</span>
 					</div>
@@ -152,7 +152,7 @@ require_once "../../Controllers/CourseController.php";
 					<span class="progress-bar"></span>
 				</span>
 				<div class="progress-value">
-					<div class="ml-4">
+					<div>
 						70%<br>
 						<span>completed</span>
 					</div>
@@ -196,7 +196,7 @@ require_once "../../Controllers/CourseController.php";
 					<span class="progress-bar"></span>
 				</span>
 				<div class="progress-value">
-					<div class="ml-4">
+					<div>
 						90%<br>
 						<span>completed</span>
 					</div>

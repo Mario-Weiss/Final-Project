@@ -103,11 +103,13 @@ $howManySteps: 20; //this needs to be even.
     height: 100%;
     //font-family: $work-sans;
     font-weight: 300;
+    margin-left: 35px;
     div {
       margin-top: 10px;
     }
     span {
       font-size: 12px;
+      line-height: 25px;
       text-transform: uppercase;
     }
   }
